@@ -4,9 +4,6 @@ using namespace std;
 
 int main()
 {
-<<<<<<< Updated upstream
-
-=======
     int n;
     cin>>n;
     for(int i = 1;i<=n;i++){
@@ -16,6 +13,5 @@ int main()
         }
         cout<<endl;
     }
->>>>>>> Stashed changes
     return 0;
 }
